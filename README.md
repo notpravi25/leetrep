@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/notpravi25/leetrep/tree/master/0177-nth-highest-salary) |
+| [0182-duplicate-emails](https://github.com/notpravi25/leetrep/tree/main/0182-duplicate-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
