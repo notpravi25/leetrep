@@ -27,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/notpravi25/leetrep/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/notpravi25/leetrep/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Two Pointers
@@ -41,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/notpravi25/leetrep/tree/main/0168-excel-sheet-column-title/) | Easy |
 <!---LeetCode Topics End-->
