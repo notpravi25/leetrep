@@ -10,6 +10,7 @@
 | [0577-employee-bonus](https://github.com/notpravi25/leetrep/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/notpravi25/leetrep/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/notpravi25/leetrep/tree/main/0595-big-countries/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/notpravi25/leetrep/tree/main/1045-customers-who-bought-all-products/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
