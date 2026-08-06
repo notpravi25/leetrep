@@ -8,6 +8,7 @@
 | [0182-duplicate-emails](https://github.com/notpravi25/leetrep/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/notpravi25/leetrep/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/notpravi25/leetrep/tree/main/0577-employee-bonus/) | Easy |
+| [0585-investments-in-2016](https://github.com/notpravi25/leetrep/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/notpravi25/leetrep/tree/main/0595-big-countries/) | Easy |
 ## Array
 | Problem Name | Difficulty |
