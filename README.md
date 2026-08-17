@@ -14,6 +14,7 @@
 | [0619-biggest-single-number](https://github.com/notpravi25/leetrep/tree/main/0619-biggest-single-number/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/notpravi25/leetrep/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1158-market-analysis-i](https://github.com/notpravi25/leetrep/tree/main/1158-market-analysis-i/) | Medium |
+| [1393-capital-gainloss](https://github.com/notpravi25/leetrep/tree/main/1393-capital-gainloss/) | Medium |
 | [3220-odd-and-even-transactions](https://github.com/notpravi25/leetrep/tree/main/3220-odd-and-even-transactions/) | Medium |
 ## Array
 | Problem Name | Difficulty |
