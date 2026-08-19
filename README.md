@@ -22,6 +22,7 @@
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/notpravi25/leetrep/tree/main/0682-baseball-game/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
