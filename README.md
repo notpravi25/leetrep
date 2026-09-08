@@ -12,6 +12,7 @@
 | [0595-big-countries](https://github.com/notpravi25/leetrep/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/notpravi25/leetrep/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/notpravi25/leetrep/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/notpravi25/leetrep/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/notpravi25/leetrep/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1158-market-analysis-i](https://github.com/notpravi25/leetrep/tree/main/1158-market-analysis-i/) | Medium |
 | [1393-capital-gainloss](https://github.com/notpravi25/leetrep/tree/main/1393-capital-gainloss/) | Medium |
