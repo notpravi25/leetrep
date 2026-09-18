@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notpravi25/leetrep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
+| [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/notpravi25/leetrep/tree/main/0682-baseball-game/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -50,6 +51,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
@@ -70,6 +72,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/notpravi25/leetrep/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -102,9 +105,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notpravi25/leetrep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
