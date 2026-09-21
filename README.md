@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/notpravi25/leetrep/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/notpravi25/leetrep/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/notpravi25/leetrep/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -57,6 +58,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notpravi25/leetrep/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Monotonic Stack
@@ -115,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
