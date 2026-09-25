@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/notpravi25/leetrep/tree/main/0682-baseball-game/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notpravi25/leetrep/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/notpravi25/leetrep/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
