@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notpravi25/leetrep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
@@ -61,6 +62,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notpravi25/leetrep/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -133,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
