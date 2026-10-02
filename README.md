@@ -30,6 +30,7 @@
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/notpravi25/leetrep/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notpravi25/leetrep/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/notpravi25/leetrep/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
