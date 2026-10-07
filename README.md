@@ -81,6 +81,7 @@
 | [0168-excel-sheet-column-title](https://github.com/notpravi25/leetrep/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/notpravi25/leetrep/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0292-nim-game](https://github.com/notpravi25/leetrep/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/notpravi25/leetrep/tree/main/0326-power-of-three/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/notpravi25/leetrep/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/notpravi25/leetrep/tree/main/2469-convert-the-temperature/) | Easy |
 ## Greedy
@@ -148,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/notpravi25/leetrep/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
