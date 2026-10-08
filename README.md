@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notpravi25/leetrep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
@@ -60,6 +61,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
@@ -153,4 +155,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/notpravi25/leetrep/tree/main/0326-power-of-three/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
