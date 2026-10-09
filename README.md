@@ -57,6 +57,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/notpravi25/leetrep/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/notpravi25/leetrep/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/notpravi25/leetrep/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/notpravi25/leetrep/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/notpravi25/leetrep/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/notpravi25/leetrep/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
