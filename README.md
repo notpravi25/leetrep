@@ -23,6 +23,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/notpravi25/leetrep/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/notpravi25/leetrep/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -71,6 +72,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/notpravi25/leetrep/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/notpravi25/leetrep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0383-ransom-note](https://github.com/notpravi25/leetrep/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
