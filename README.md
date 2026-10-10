@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/notpravi25/leetrep/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/notpravi25/leetrep/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/notpravi25/leetrep/tree/main/0682-baseball-game/) | Easy |
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -176,4 +177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/notpravi25/leetrep/tree/main/0075-sort-colors/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/notpravi25/leetrep/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
