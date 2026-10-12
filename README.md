@@ -32,6 +32,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/notpravi25/leetrep/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/notpravi25/leetrep/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/notpravi25/leetrep/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -73,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/notpravi25/leetrep/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/notpravi25/leetrep/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/notpravi25/leetrep/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/notpravi25/leetrep/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/notpravi25/leetrep/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +186,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/notpravi25/leetrep/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/notpravi25/leetrep/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
