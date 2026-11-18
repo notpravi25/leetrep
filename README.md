@@ -42,6 +42,7 @@
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/notpravi25/leetrep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/notpravi25/leetrep/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/notpravi25/leetrep/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1929-concatenation-of-array](https://github.com/notpravi25/leetrep/tree/main/1929-concatenation-of-array/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/notpravi25/leetrep/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
@@ -203,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/notpravi25/leetrep/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/notpravi25/leetrep/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
