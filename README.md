@@ -41,6 +41,7 @@
 | [0881-boats-to-save-people](https://github.com/notpravi25/leetrep/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/notpravi25/leetrep/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/notpravi25/leetrep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/notpravi25/leetrep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/notpravi25/leetrep/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/notpravi25/leetrep/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
