@@ -46,6 +46,7 @@
 | [1672-richest-customer-wealth](https://github.com/notpravi25/leetrep/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/notpravi25/leetrep/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1929-concatenation-of-array](https://github.com/notpravi25/leetrep/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/notpravi25/leetrep/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/notpravi25/leetrep/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/notpravi25/leetrep/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Stack
@@ -62,6 +63,7 @@
 | [0682-baseball-game](https://github.com/notpravi25/leetrep/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/notpravi25/leetrep/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/notpravi25/leetrep/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/notpravi25/leetrep/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@
 | [0844-backspace-string-compare](https://github.com/notpravi25/leetrep/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/notpravi25/leetrep/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/notpravi25/leetrep/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/notpravi25/leetrep/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
